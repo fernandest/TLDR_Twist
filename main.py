@@ -1,7 +1,6 @@
 import nltk
 from nltk.collocations import *
 import string
-import math
 
 # Open text file and set it to raw
 f = open('./texts/text1.txt')
